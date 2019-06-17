@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Ian Sinnott <ian@iansinnott.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "dependencies": {
     "jest": "^24.8.0",
     "ramda": "^0.26.1"
