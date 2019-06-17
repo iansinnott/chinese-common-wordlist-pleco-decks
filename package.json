@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Ian Sinnott <ian@iansinnott.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.8.0",
+    "ramda": "^0.26.1"
+  }
 }
