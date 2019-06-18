@@ -1,4 +1,4 @@
-const { parseCSV } = require('./index.js');
+const { parseCSV } = require('./tocfl-8000.js');
 
 test('parseCSV', () => {
   expect(() => {

@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "jest": "^24.8.0",
+    "puppeteer": "^1.17.0",
     "ramda": "^0.26.1"
   }
 }
